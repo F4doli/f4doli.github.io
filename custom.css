@@ -1,0 +1,9 @@
+hr {
+    border-top: 0.25rem solid var(--fg-muted-2);
+    width: 100%;
+
+    &::after {
+        display: none;
+    }
+}
+

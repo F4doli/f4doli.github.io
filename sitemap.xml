@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://f4doli.github.io/</loc>
+    </url>
+    <url>
+        <loc>https://f4doli.github.io/Archives/</loc>
+    </url>
+    <url>
+        <loc>https://f4doli.github.io/Blog/</loc>
+    </url>
+    <url>
+        <loc>https://f4doli.github.io/Blog/vulnlab-baby/</loc>
+        <lastmod>2024-08-19</lastmod>
+    </url>
+    <url>
+        <loc>https://f4doli.github.io/tags/</loc>
+    </url>
+    <url>
+        <loc>https://f4doli.github.io/tags/active-directory/</loc>
+    </url>
+    <url>
+        <loc>https://f4doli.github.io/tags/easy/</loc>
+    </url>
+    <url>
+        <loc>https://f4doli.github.io/tags/vulnlab/</loc>
+    </url>
+</urlset>
