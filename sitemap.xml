@@ -10,6 +10,10 @@
         <loc>https://f4doli.github.io/Blog/</loc>
     </url>
     <url>
+        <loc>https://f4doli.github.io/Blog/htb-editorial/</loc>
+        <lastmod>2024-08-24</lastmod>
+    </url>
+    <url>
         <loc>https://f4doli.github.io/Blog/vulnlab-baby/</loc>
         <lastmod>2024-08-19</lastmod>
     </url>
@@ -21,6 +25,15 @@
     </url>
     <url>
         <loc>https://f4doli.github.io/tags/easy/</loc>
+    </url>
+    <url>
+        <loc>https://f4doli.github.io/tags/hack-the-box/</loc>
+    </url>
+    <url>
+        <loc>https://f4doli.github.io/tags/linux/</loc>
+    </url>
+    <url>
+        <loc>https://f4doli.github.io/tags/ssrf/</loc>
     </url>
     <url>
         <loc>https://f4doli.github.io/tags/vulnlab/</loc>
