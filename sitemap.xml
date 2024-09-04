@@ -14,6 +14,10 @@
         <lastmod>2024-08-24</lastmod>
     </url>
     <url>
+        <loc>https://f4doli.github.io/Blog/htb-monitorsthree/</loc>
+        <lastmod>2024-09-04</lastmod>
+    </url>
+    <url>
         <loc>https://f4doli.github.io/Blog/vulnlab-baby/</loc>
         <lastmod>2024-08-19</lastmod>
     </url>
@@ -33,9 +37,15 @@
         <loc>https://f4doli.github.io/tags/linux/</loc>
     </url>
     <url>
+        <loc>https://f4doli.github.io/tags/medium/</loc>
+    </url>
+    <url>
         <loc>https://f4doli.github.io/tags/ssrf/</loc>
     </url>
     <url>
         <loc>https://f4doli.github.io/tags/vulnlab/</loc>
+    </url>
+    <url>
+        <loc>https://f4doli.github.io/tags/windows/</loc>
     </url>
 </urlset>
